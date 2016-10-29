@@ -1,0 +1,22 @@
+{
+  "title": "Test",
+  "description": "",
+  "date": "2016-10-27T15:14:01.279Z",
+  "tags": null,
+  "publishdate": "2016-10-27T15:14:01.279Z",
+  "status": "Post in Erstellung",
+  "draft": false,
+  "id": "0",
+  "artists": null,
+  "pictures": null,
+  "posts": null,
+  "links": null,
+  "postpics": {},
+  "imagebase": "",
+  "imagefull": "",
+  "imagemedium": "",
+  "imagecard": "",
+  "imagethumb": "",
+  "content": "Fett: **fetter Text1** __fetter Text2__\nKursiv: *kursiver Text1* _kursiverText2_\n\n* Aufzählung (zuerst 2 Leerzeilen)\n* Dann einfach Punkte\n\nNeue Zeile (benötigt 2 Leerzeilen)\nLink: [Linktext](http://stabi.hamburg)\n\n\n---\nTrennlinie benötigt 2 Leerzeilen und dann ---\n\n# Überschrift\n## Überschrift\n### Überschrift",
+  "Image": ""
+}
