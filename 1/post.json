@@ -1,22 +1,41 @@
 {
   "title": "Histblogger - Kopergravure",
   "description": "Das Projekt Histblogger - Kopergravure ist Teil von Coding Da Vinci Nord. Ziel ist es die niederländischen Kupferstiche der Stabi Hamburg online zum Leben zu erwecken.",
-  "date": "2016-10-28T14:33:44.427Z",
-  "tags": null,
-  "publishdate": "2016-10-28T14:33:44.427Z",
-  "status": "Post in Erstellung",
+  "date": "2016-10-30T12:35:42.018Z",
+  "tags": [
+    "Coding Da Vinci",
+    "Projekt",
+    "Die vier Winde"
+  ],
+  "publishdate": "2016-10-30T12:35:42.018Z",
+  "status": "fertig",
   "draft": false,
   "id": "1",
-  "artists": null,
+  "artists": [
+    "GND118643177"
+  ],
   "pictures": null,
   "posts": null,
   "links": null,
-  "postpics": null,
+  "postpics": {
+    "header_cdvnord.jpg": {
+      "Value": "header_cdvnord.jpg",
+      "Text": "",
+      "Title": "",
+      "Attribution": ""
+    }
+  },
   "imagebase": "",
   "imagefull": "",
   "imagemedium": "",
   "imagecard": "",
   "imagethumb": "",
-  "content": "Das Projekt Histblogger - Kopergravure ist Teil von Coding Da Vinci Nord. Ziel ist es die niederländischen Kupferstiche der Stabi Hamburg online zum Leben zu erwecken.",
+  "imagesource": {
+    "Value": "",
+    "Text": "",
+    "Title": "",
+    "Attribution": ""
+  },
+  "content": "Willkommen bei dem neuen Blog Kopergravure. Dieser Blog entsteht gerade im Rahmen von [Coding Da Vinci Nord](https://codingdavinci.de/).  Grundlage sind die [Daten der Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky](https://codingdavinci.de/daten/#carl-von-ossietzky) und davon die Kupferstiche von _Manier, Mythos und Moral – Niederländische Druckgraphik um 1600_. Die Sammlung umfasst 161 Kupferstiche, welche in ihrer Gesamtheit _einer der wertvollsten und für Hamburger Sammlungen der Frühen Neuzeit aussagekräftigsten Teilbestände der Kupferstichsammlung _ ist.\n\nDas Ziel des Blogs ist es die 161 digitalisierten Kupferstiche für das Web aufzuarbeiten. Das bedeutet, dass neue kürzere Texte zu jedem Bild erfasst werden. Zusätzlich werden einzelne Bereiche genauer behandelt. Der Blog hat als Ziel ungefähr ein Kunstwerk pro Woche aufbereitet zu veröffentlichen.  D.h. das Projekt ist über einen längeren Zeitraum angelegt.\n\nGanz wichtig sind uns auch Feedbacks der Leser. Deshalb möchte ich hier noch einmal ausdrücklich auf die Kommentarfunktion unterhalb der Posts und der Kunstwerke hinweisen.\n\nJetzt zum Start solle als erstes die Serie von Marteen de Vos _die vier Winde_ aufbereitet werden.",
   "Image": ""
 }
