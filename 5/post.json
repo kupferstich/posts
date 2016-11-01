@@ -1,0 +1,40 @@
+{
+  "title": "Gopher - Go \u0026 JavaScript - die Technik dieses Blogs",
+  "description": "Von der Idee zum Text und anschließend zum Blogeintrag. Unterhalb laufen Programme, welche hauptsächlich in Go programmiert wurden. Doch warum ist das so? Welche Vorteile sind damit verbunden?",
+  "date": "2016-11-01T07:00:00Z",
+  "tags": [
+    "Golang",
+    "Hugo",
+    "Coding Da Vinci",
+    "Projekt"
+  ],
+  "publishdate": "2016-11-01T08:53:59.881Z",
+  "status": "Post in Erstellung",
+  "draft": false,
+  "id": "5",
+  "artists": null,
+  "pictures": null,
+  "posts": null,
+  "links": null,
+  "postpics": {
+    "gopherswrench.jpg": {
+      "Value": "gopherswrench.jpg",
+      "Text": "",
+      "Title": "",
+      "Attribution": ""
+    }
+  },
+  "imagebase": "",
+  "imagefull": "",
+  "imagemedium": "",
+  "imagecard": "",
+  "imagethumb": "",
+  "imagesource": {
+    "Value": "",
+    "Text": "",
+    "Title": "",
+    "Attribution": ""
+  },
+  "content": "Dieser Blog ist im Rahmen von [Coding Da Vinci Nord](https://codingdavinci.de/) entstanden. Das Projekt des [Histbloggers](https://hackdash.org/projects/57dfc9c7d9284f016c04749c) hatte sich als Ziel gesetzt, die historischen Kupferstiche der Stabi Hamburg digital einem breiten Publikum zur Verfügung zu stellen. \n\nAllerdings waren die Rohdaten der Staatsbibiliothek dafür nicht ausreichend. Hierfür musste eine Möglichkeit geschaffen werden, welche eine einfache Datenpflege zulässt. Auf dieser Basis wurde ein Datatool mit einer einfachen Weboberfläche geschaffen, welche zu jedem Bild eine komfortable Pflege ermöglicht.\n\n## Das Datatool\n\nDas Tool besteht aus einem Server und einer Web App. Der Server ist in Go und die Web App in JavaScript umgesetzt. Alle Daten zu einem Bild werden als Textdateien im JSON Format abgelegt. Dabei gibt es drei unabhängige Ordner,  welche jeweils auch ein eigenes GitHub Repository besitzen:\n\n* Kunstwerke [GitHub Repository](https://github.com/kupferstich/bilderDaten)\n* Künstler [GitHub Repository](https://github.com/kupferstich/personenDaten)\n* BlogPosts [GitHub Repository](https://github.com/kupferstich/posts)\n\nDer Server stellt für die Web APP eine REST API zur Verfügung. Über den Austausch von JSON Dateien erfolgt die Kommunikation zwischen Server und Webbrowser.  Durch die Verwendung eines Browsers als GUI war es möglich, dass das Datatool gezippt unter 10 MB groß ist.\n\nDie Installation ist dabei sehr einfach, da der Server als eine kompilierte Datei zur Verfügung steht und auf allen Betriebssystemen lauffähig ist. \n\nDie Web APP ist mittels [Vue.js](http://vuejs.org/) und [Fabric.js](http://fabricjs.com/) umgesetzt worden. Diese Umsetzung hat dabei den weiteren Vorteil, dass das Datatool sowohl nur lokal aber auch im Intra- oder Internet installiert werden kann.\n\nDer Einsatz für andere Blogprojekte ist mit dem Datatool leicht möglich. Bei der ersten Erstellung von Beiträgen konnten wir erfahren,**welchen großen pädagogischen Wert** das Tool bietet.  Denn dadurch, dass einzelne Bildbereiche beschrieben und verlinkt werden können, muss sich der Erfasser tiefere Gedanken zu jeder einzelnen Figur machen. Dies erfordert es, dass man sich tiefer mit den dargestellten Mythologien beschäftigen muss.\n\n## Schnittstelle zur Blogsoftware Hugo\n\nDas Datatool stellt eine Schnittstelle zur [Blogsoftware Hugo](http://gohugo.io/) bereit. Dabei werden die im Datatool erfassten Daten extrahiert, Bildausschnitte erzeugt und die Bilder in unterschiedlichen Größen für eine Darstellung im Web verkleinert.\n\nDas Ergebnis sind entsprechende Dokumente in der richtigen Struktur für Hugo. Anschließend werden auf dem exportierten Content html und xml Dateien erzeugt. \n\nDie erzeugten Dateien könner per _git commit_ und _git push_ einfach auf Github Pages aktuallisiert werden.\n\n---\n\nFotonachweis: Gopher Design by [Renee French](http://reneefrench.blogspot.de/)",
+  "Image": ""
+}

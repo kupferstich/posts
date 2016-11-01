@@ -1,8 +1,10 @@
 {
-  "title": "Impressum",
+  "title": "Über die vier Winde",
   "description": "",
-  "date": "2016-09-01T00:00:00Z",
-  "tags": null,
+  "date": "2016-11-01T00:00:00Z",
+  "tags": [
+    "Die vier Winde"
+  ],
   "publishdate": "0001-01-01T00:00:00Z",
   "status": "",
   "draft": false,
