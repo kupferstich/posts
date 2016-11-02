@@ -1,7 +1,7 @@
 {
   "title": "Impressum",
   "description": "",
-  "date": "2016-09-01T11:55:00Z",
+  "date": "2016-10-26T00:00:00Z",
   "tags": null,
   "publishdate": "2016-10-29T07:16:02.395Z",
   "status": "fertig",
@@ -11,7 +11,14 @@
   "pictures": null,
   "posts": null,
   "links": null,
-  "postpics": {},
+  "postpics": {
+    "impressum.jpg": {
+      "Value": "impressum.jpg",
+      "Text": "",
+      "Title": "",
+      "Attribution": ""
+    }
+  },
   "imagebase": "",
   "imagefull": "",
   "imagemedium": "",
@@ -23,6 +30,6 @@
     "Title": "",
     "Attribution": ""
   },
-  "content": "### Daten\nSofern nicht anders angegeben, wurden alle Bilddateien von der *Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky* unter der Lizenz [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) zur Verfügung gestellt.\n\n### Übersetzungen\n**Übersetzungen** aus dem Lateinischen oder Kommentare zu den Kunstwerken sind, sofern nicht anders genannt aus folgendem Werk entnommen:\n\n_Manier, Mythos und Moral: niederländische Druckgraphik um 1600_ aus den Beständender Staats- und Universitätsbibliothek Hamburg / Iris Wenderholm (Hg.). Petersberg: Imhof,2014. (Publikationen der Staats- und Universitätsbibliothek Carl von Ossietzky; 6)",
+  "content": "### Daten\nSofern nicht anders angegeben, wurden alle Bilddateien von der *Staats- und Universitätsbibliothek Hamburg Carl von Ossietzky* unter der Lizenz [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) zur Verfügung gestellt.\n\nStaats- und Universitätsbibliothek Hamburg Carl von Ossietzky  \nVon-Melle-Park 3  \n20146 Hamburg  \n[http://stabi.hamburg](http://stabi.hamburg)\n\n### Übersetzungen\n**Übersetzungen** aus dem Lateinischen oder Kommentare zu den Kunstwerken sind, sofern nicht anders genannt aus folgendem Werk entnommen:\n\n_Manier, Mythos und Moral: niederländische Druckgraphik um 1600_ aus den Beständender Staats- und Universitätsbibliothek Hamburg / Iris Wenderholm (Hg.). Petersberg: Imhof,2014. (Publikationen der Staats- und Universitätsbibliothek Carl von Ossietzky; 6)\n\n## Umsetzung\n\nDie technische Umsetzung erfolgte im Rahmen von [Coding Da Vinci Nord 2016](https://codingdavinci.de/).\n\nOrganisation des Blogs erfolgt über die [GitHub Kupferstich Community](https://github.com/kupferstich).\n\n---\nBildnachweis:\nhttps://stocksnap.io/photo/PY7EWSKYR3",
   "Image": ""
 }
