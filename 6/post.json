@@ -1,0 +1,37 @@
+{
+  "title": "Conding Da Vinci Projekt: Sieben X Zwei Von Tugenden und Lastern",
+  "description": "Ein anderes Coding Da Vinci Nord Projekt, welches auch die Kupferstiche beinhaltet ist Sieben X Zwei. Hier dürfen die einzelnen Kupferstichfiguren in einem Kampf gegen einander antreten.",
+  "date": "2016-11-08T18:37:57.824Z",
+  "tags": [
+    "Coding Da Vinci"
+  ],
+  "publishdate": "2016-11-08T18:37:57.824Z",
+  "status": "fertig",
+  "draft": false,
+  "id": "6",
+  "artists": null,
+  "pictures": null,
+  "posts": null,
+  "links": null,
+  "postpics": {
+    "sieben_x_zwei.jpg": {
+      "Value": "sieben_x_zwei.jpg",
+      "Text": "",
+      "Title": "",
+      "Attribution": ""
+    }
+  },
+  "imagebase": "",
+  "imagefull": "",
+  "imagemedium": "",
+  "imagecard": "",
+  "imagethumb": "",
+  "imagesource": {
+    "Value": "",
+    "Text": "",
+    "Title": "",
+    "Attribution": ""
+  },
+  "content": "Das Projekt ist _eine animierte Kurzfilm-Reihe aus niederländischen Kupferstichen des 16. Jahrhunderts in sieben Teilen zum immer währenden inneren Kampf zwischen „Tugend“ und „Laster“ oder „Gut“ und „Böse“._ (siehe [Hackdash](https://hackdash.org/projects/5808c3fcd9284f016c047764))\n\nAktuell ist Teil 1 Wollust vs. Liebe fertig und kann auf [Youtube]((http://www.youtube.com/watch?v=zaPyCCzZXbY) angesehen werden.\n\n[![Teil 1 Wollust vs. Liebe](http://img.youtube.com/vi/zaPyCCzZXbY/2.jpg)](http://www.youtube.com/watch?v=zaPyCCzZXbY)\n",
+  "Image": ""
+}
